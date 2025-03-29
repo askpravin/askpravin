@@ -1,27 +1,23 @@
-# Hi there, I'm Pravin Jadhav! 👋
+# Pravin Jadhav
+**Full-Stack Developer | Mobile (React Native/Flutter)**
 
-## 🚀 Full-Stack Developer | MERN Stack Enthusiast | Tech Entrepreneur
+Building scalable solutions with JavaScript ecosystems and cross-platform mobile technologies.
 
-Welcome to my digital space! I'm a **Full-Stack Developer** with a knack for crafting **scalable web solutions** and an entrepreneurial mindset that fuels innovation. My journey blends **technology, business, and creativity**, making me a unique problem-solver in the tech ecosystem.
+## 🛠 Technologies
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Mobile**: React Native, Flutter (Learning)
+- **Backend**: Node.js, Express, MongoDB
+- **DevOps**: Docker, AWS, CI/CD
 
-## 🌟 My Evolution
+## 🌟 Featured Projects
+- [ParbhaniTimes.com](https://parbhanitimes.com) - WordPress news portal (SEO optimized)
+- [E-Commerce Platform](https://github.com/yourrepo) - MERN stack with payment integration
+- Mobile App (Coming Soon) - React Native/Flutter hybrid
 
-- **🚀 E-commerce Pioneer** – Kickstarted my entrepreneurial path by launching an **online store**, gaining deep insights into digital commerce and UX.
-- **📰 News Portal Architect** – Built **ParbhaniTimes.com** on **WordPress**, mastering **SEO**, content strategy, and audience engagement.
-- **💡 Full-Stack Innovator** – Shifted gears to software development, building robust **web applications, APIs, and scalable systems** using the **MERN stack**.
+## 📈 Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=default)](https://github.com/yourusername)
 
-## 🎯 Seeking Full-Time Growth
-
-With a **fusion of business acumen and technical expertise**, I'm now looking for a **full-time role as a Full-Stack Developer**, where I can contribute, learn, and **create high-impact solutions** that push boundaries.
-
-### ⚡ Tech Arsenal:
-- **Frontend**: React.js, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, MongoDB, Firebase
-- **DevOps & Cloud**: Docker, AWS, CI/CD, Cloud Architecture
-
-📫 **Let's Build the Future Together!**
-- 📧 Email: [askpravinjadhav@gmail.com](mailto:askpravinjadhav@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/askpravinjadhav](https://linkedin.com/in/askpravinjadhav)
-- 🌎 Portfolio: [pravin-work.netlify.app](https://pravin-work.netlify.app)
-
-🚀 Passionate about **code, creativity, and scaling impactful ideas**. Let's connect and build something remarkable!
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/askpravinjadhav)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:askpravinjadhav@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://pravin-work.netlify.app)
