@@ -1,5 +1,5 @@
 # Pravin Jadhav
-**Full-Stack Developer | Mobile (React Native/Flutter)**
+**Full-Stack Developer | Mobile (React Native/Flutter) | Vue | Svelte **
 
 Building scalable solutions with JavaScript ecosystems and cross-platform mobile technologies.
 
