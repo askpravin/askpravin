@@ -14,10 +14,8 @@ Building scalable solutions with JavaScript ecosystems and cross-platform mobile
 - [E-Commerce Platform](https://github.com/yourrepo) - MERN stack with payment integration
 - Mobile App (Coming Soon) - React Native/Flutter hybrid
 
-## 📈 Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=default)](https://github.com/yourusername)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/askpravinjadhav)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:askpravinjadhav@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://pravin-work.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://pravinjadhav.site)
