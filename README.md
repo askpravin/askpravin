@@ -1,5 +1,5 @@
 # Pravin Jadhav
-Full-Stack Developer| Vue | Svelte 
+Full-Stack Developer | Vue | Svelte 
 
 Building scalable solutions with JavaScript ecosystems and cross-platform mobile technologies.
 
