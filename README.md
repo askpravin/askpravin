@@ -5,7 +5,6 @@ Building scalable solutions with JavaScript ecosystems and cross-platform mobile
 
 ## 🛠 Technologies
 - **Frontend**: React, Next.js, Tailwind CSS
-- **Mobile**: React Native, Flutter (Learning)
 - **Backend**: Node.js, Express, MongoDB
 - **DevOps**: Docker, AWS, CI/CD
 
