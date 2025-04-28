@@ -1,8 +1,7 @@
 # Pravin Jadhav
 Full-Stack Developer | Vue | Svelte 
 
-Building scalable solutions with JavaScript ecosystems and cross-platform mobile technologies.
-
+Building scalable solutions with JavaScript ecosystems.
 ## 🛠 Technologies
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express, MongoDB
